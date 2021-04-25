@@ -1,0 +1,16 @@
+body {
+  margin: 0px;
+}
+
+::-webkit-scrollbar {
+  width: 10px; /* La largeur de la barre */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: cornflowerblue; /* La couleur de la barre */
+  border-radius: 20px; /* Les bors arrondis */
+}
+
+::-webkit-scrollbar-thumb:window-inactive {
+  background-color: #b9b9b9; /* La couleur de la barre quand la page n'est pas active [OPTIONEL] */
+}
