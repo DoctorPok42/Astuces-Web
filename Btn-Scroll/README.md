@@ -1,6 +1,6 @@
 # Btn-Scroll
 
-Cette astuce vous permet de crée un bouton de défilement vers le bas.
+Cette astuce vous permet de créer un bouton de défilement vers le bas.
 
 Vous trouverez dans ce dossier les 2 fichier essentiels, faites bien attention à bien conserver le bout de code en js sinon votre animation ne sera pas fluide.
 
