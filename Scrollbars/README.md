@@ -1,4 +1,4 @@
-# CSS-Scrollbars
+# Scrollbars
 
 Cette astuce vous permet de customiser votre barre de scroll, en lui ajoutant une largeur, une couleur et autres.
 
