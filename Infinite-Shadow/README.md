@@ -1,6 +1,6 @@
 # Btn-Scroll
 
-Cette astuce vous permet de créer un bouton / lien avec une ombre qui va grandire progésivement.
+Cette astuce vous permet de créer un bouton / lien avec une ombre qui va grandir progésivement.
 
 Vous trouverez dans ce dossier les 2 fichier essentiels, faites bien attention à bien conserver le css surtout le bout de code commançant par `@keyframes`, sinon l'animation ne marchera pas.
 
