@@ -1,0 +1,50 @@
+body {
+  margin: 0px;
+  width: 100%;
+  background-color: #2b2b2b;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+/* On définit la base du lien */
+.shadow {
+  position: absolute;
+  top: 50%;
+  left: 45%;
+  border: none;
+  border-radius: 20px;
+  padding: 1% 2% 1% 2%;
+  background-color: #02c262;
+}
+
+/* Puis on définit la forme qu'il aura à la fin */
+.shadow::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-color: #02c262;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  z-index: -1; /* Permet de garder l'ombre derrière le lien*/
+  animation: 1.5s shadow infinite;
+}
+
+/* On part du from pour arriver au to */
+@keyframes shadow {
+  from {
+    transform: scale(1);
+    opacity: 1;
+  }
+  to {
+    transform: scale(1.5);
+    opacity: 0;
+  }
+}
