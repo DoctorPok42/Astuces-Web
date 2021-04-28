@@ -1,4 +1,4 @@
-# Astuces-Web
+# Astuces-Web [![CodeFactor](https://www.codefactor.io/repository/github/doctorpok42/astuces-web/badge)](https://www.codefactor.io/repository/github/doctorpok42/astuces-web)
 
 Bienvenue sur ce repo !
 
