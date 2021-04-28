@@ -1,0 +1,28 @@
+body {
+  margin: 0px;
+}
+
+.wall {
+  padding-top: 55%;
+  background-color: #2b2b2b;
+  animation: wall 10s infinite; /* Vous pouvez égler la longeur de l'animation */
+}
+
+/* Ici vous pouvez ajoutez toutes les couleurs que vous voulez */
+@keyframes wall {
+  0% {
+    background-color: #ff0000;
+  }
+  25% {
+    background-color: yellow;
+  }
+  50% {
+    background-color: #3333cc;
+  }
+  75% {
+    background-color: #00ffcc;
+  }
+  100% {
+    background-color: #cc9900;
+  }
+}
