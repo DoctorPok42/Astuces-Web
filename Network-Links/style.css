@@ -1,0 +1,28 @@
+body {
+  margin: 0px;
+  background-color: #1b1b1b;
+}
+
+#band {
+  border: none;
+  border-radius: 50px;
+  background-color: #b9b9b9;
+  padding: 1% 2% 1% 2%;
+  margin: 50rem auto 0rem auto;
+  display: flex;
+  width: 22%;
+}
+
+.icon {
+  border: none;
+  border-radius: 100px;
+  background-color: #fff;
+  width: 80px;
+  display: flex;
+  padding: 2% 1% 2% 1%;
+  transition: 0.2s;
+}
+
+.icon:hover {
+  transform: translateY(-5px);
+}
