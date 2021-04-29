@@ -3,6 +3,7 @@ body {
   background-color: #1b1b1b;
 }
 
+/* Le bandeaux générale */
 #band {
   border: none;
   border-radius: 50px;
@@ -13,6 +14,7 @@ body {
   width: 22%;
 }
 
+/* Le css de chaque icon */
 .icon {
   border: none;
   border-radius: 100px;
@@ -23,6 +25,7 @@ body {
   transition: 0.2s;
 }
 
+/* Vous pouvez rajouter d'autre si vous le voulez */
 .icon:hover {
   transform: translateY(-5px);
 }
