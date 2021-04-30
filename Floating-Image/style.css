@@ -13,6 +13,7 @@ body {
 }
 
 img {
+  width: 20%;
   animation: img 2.5s ease-in-out infinite; /* Définit l'animation sur 2.5s en mode infini */
 }
 
