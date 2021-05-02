@@ -11,6 +11,7 @@
   align-items: center;
 }
 
+/* Le css de l'input */
 .content input {
   width: 400px;
   height: 40px;
@@ -24,6 +25,7 @@
   z-index: 10;
 }
 
+/* Le css de du bouton qui est d'abord caché derrière l'input */
 .content button {
   width: 180px;
   height: 40px;
