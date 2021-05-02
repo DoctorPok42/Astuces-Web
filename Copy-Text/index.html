@@ -14,8 +14,10 @@
       var copyText = document.getElementById("copie");
 
       if (copyText.value.length < 1) {
+        // Si pas de texte
         alert("Il faut quand même entrer un texte !");
       } else {
+        // Sinon on copie le texte
         copyText.select();
         copyText.setSelectionRange(0, 99999);
         document.execCommand("copy");
