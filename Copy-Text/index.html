@@ -1,28 +1,34 @@
 <!DOCTYPE html>
-<head>
-  <title>Copy-Text | Astuces-Web</title>
-  <meta charset="utf-8" />
-  <link rel="stylesheet" type="text/css" href="style.css" />
-</head>
-<body>
-  <div class="content">
-    <input type="text" placeholder="Entrez quelque chose à copier" id="copie" />
-    <button onclick="funccopy()">Copier le texte</button>
-  </div>
-  <script>
-    function funccopy() {
-      var copyText = document.getElementById("copie");
+<html lang="fr">
+  <head>
+    <title>Copy-Text | Astuces-Web</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <div class="content">
+      <input
+        type="text"
+        placeholder="Entrez quelque chose à copier"
+        id="copie"
+      />
+      <button onclick="funccopy()">Copier le texte</button>
+    </div>
+    <script>
+      function funccopy() {
+        var copyText = document.getElementById("copie");
 
-      if (copyText.value.length < 1) {
-        // Si pas de texte
-        alert("Il faut quand même entrer un texte !");
-      } else {
-        // Sinon on copie le texte
-        copyText.select();
-        copyText.setSelectionRange(0, 99999);
-        document.execCommand("copy");
-        alert("Texte copié :\n" + copyText.value);
+        if (copyText.value.length < 1) {
+          // Si pas de texte
+          alert("Il faut quand même entrer un texte !");
+        } else {
+          // Sinon on copie le texte
+          copyText.select();
+          copyText.setSelectionRange(0, 99999);
+          document.execCommand("copy");
+          alert("Texte copié :\n" + copyText.value);
+        }
       }
-    }
-  </script>
-</body>
+    </script>
+  </body>
+</html>
