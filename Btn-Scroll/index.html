@@ -1,34 +1,36 @@
 <!DOCTYPE html>
-<head>
-  <title>Btn-Scroll | Astuces-Web</title>
-  <meta charset="utf-8" />
-  <link rel="stylesheet" type="text/css" href="style.css" />
-</head>
-<body>
-  <section id="sec1">
-    <a href="#sec2"><button class="bounce">&#8681;</button></a>
-  </section>
+<html lang="fr">
+  <head>
+    <title>Btn-Scroll | Astuces-Web</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <section id="sec1">
+      <a href="#sec2"><button class="bounce">&#8681;</button></a>
+    </section>
 
-  <section id="sec2"></section>
+    <section id="sec2"></section>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script>
-    $(document).ready(function () {
-      $("a").on("click", function (event) {
-        if (this.hash !== "") {
-          event.preventDefault();
-          var hash = this.hash;
-          $("html, body").animate(
-            {
-              scrollTop: $(hash).offset().top,
-            },
-            500, // Vous pouvez réglez la vitesse de défilement
-            function () {
-              window.location.hash = hash;
-            }
-          );
-        }
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script>
+      $(document).ready(function () {
+        $("a").on("click", function (event) {
+          if (this.hash !== "") {
+            event.preventDefault();
+            var hash = this.hash;
+            $("html, body").animate(
+              {
+                scrollTop: $(hash).offset().top,
+              },
+              500, // Vous pouvez réglez la vitesse de défilement
+              function () {
+                window.location.hash = hash;
+              }
+            );
+          }
+        });
       });
-    });
-  </script>
-</body>
+    </script>
+  </body>
+</html>
