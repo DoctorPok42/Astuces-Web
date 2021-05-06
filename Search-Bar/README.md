@@ -1,6 +1,6 @@
 # Search-Bar
 
-Cette astuce vous permet de une barre de recheche.
+Cette astuce vous permet de crée une barre de recheche.
 
 Vous trouverez dans ce dossier les 2 fichier essentiels. Cependant elle n'est pas entièrement finalisé, vous devez de votre côté connecter votre liste / répertoire à l'`action` de la balise `from`.
 
