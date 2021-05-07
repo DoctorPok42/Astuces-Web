@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #2b2b2b;
+  overflow-x: hidden;
+}
+
+section::before {
+  content: "";
+  position: absolute;
+  top: 18.5%;
+  left: 35%;
+  background-color: #1db954;
+  width: 200px;
+  height: 200px;
+  z-index: 1;
+  clip-path: circle(40%);
+}
+
+section::after {
+  content: "";
+  position: absolute;
+  bottom: 21%;
+  right: 36%;
+  background-color: #1db954;
+  width: 120px;
+  height: 120px;
+  z-index: 1;
+  clip-path: circle(40%);
+}
+
+section .card {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  border-radius: 50px;
+}
+
+section .card .container iframe {
+  border-radius: 20px;
+  height: 80px;
+  transition: 0.5s;
+}
+
+section .card .container iframe:hover {
+  border-radius: 5px;
+  height: 480px;
+}
