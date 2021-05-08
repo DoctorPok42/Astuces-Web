@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <title>Vanilla-Card | Astuces-Web</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="stylesheet" type="text/css" href="css/dycalendar.css" />
+  </head>
+  <body>
+    <section>
+      <div class="card">
+        <h1>Passe ta souris ici</h1>
+      </div>
+    </section>
+    <script type="text/javascript" src="vanilla-tilt.js"></script>
+    <script type="text/javascript">
+      VanillaTilt.init(document.querySelector(".card"), {
+        max: 15,
+        speed: 400,
+      });
+    </script>
+  </body>
+</html>
