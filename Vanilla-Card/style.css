@@ -13,6 +13,7 @@ section {
   overflow-x: hidden;
 }
 
+/* Caractéristique de la card */
 section .card {
   width: 380px;
   height: 500px;
