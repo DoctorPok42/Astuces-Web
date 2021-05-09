@@ -12,6 +12,7 @@ section {
   background-color: #2b2b2b;
 }
 
+/* Titre */
 section .headerh1 h1 {
   display: flex;
   justify-content: center;
@@ -23,6 +24,7 @@ section .headerh1 h1 {
   color: #fff;
 }
 
+/* Sous-titre */
 section .headerh1 span {
   display: flex;
   justify-content: center;
@@ -33,12 +35,14 @@ section .headerh1 span {
   color: #fff;
 }
 
+/* L'ensemble des cards */
 section .card {
   position: relative;
   justify-content: center;
   align-items: center;
 }
 
+/* 1 card */
 section .card .container {
   width: 1000px;
   height: 90px;
@@ -56,6 +60,7 @@ section .card .container:hover {
   transform: scale(1.1);
 }
 
+/* L'image */
 section .card .container .imgs {
   display: flex;
   justify-content: center;
@@ -70,6 +75,7 @@ section .card .container .imgs img {
   width: 75%;
 }
 
+/* Le nom et le nombre de points */
 section .card .container .content {
   width: 900px;
   height: 90px;
