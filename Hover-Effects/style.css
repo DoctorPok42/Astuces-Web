@@ -9,6 +9,7 @@ section {
   background-color: #2b2b2b;
 }
 
+/* Chaque objet */
 section .effects {
   width: 500px;
   height: 500px;
@@ -19,6 +20,7 @@ section .effects {
   overflow: hidden;
 }
 
+/* L'image */
 section .effects .img {
   margin: 0;
   width: 500px;
@@ -32,28 +34,31 @@ section .effects .img img {
   width: 100%;
 }
 
+/* Le texte */
 section .effects span {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 450px;
-  margin-left: 25px;
+  width: 500px;
   background-color: #fff;
   font-size: 25px;
   font-family: Nunito;
   font-weight: 600;
 }
 
+/* Les différents effets */
 .ex1,
 .ex2,
 .ex3 {
   transition: 1s;
 }
 
+/* Effet 1 */
 .ex1:hover {
   transform: rotate(360deg);
 }
 
+/* Effet 2 */
 .ex2:hover {
   transform: scale(1.1);
 }
@@ -63,6 +68,7 @@ section .effects span {
   opacity: 0;
 }
 
+/* Effet 3 */
 section .effects .img:hover .ex3 {
   transform: translateY(0%);
   opacity: 1;
