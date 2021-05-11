@@ -12,6 +12,7 @@ section {
   background-color: #2b2b2b;
 }
 
+/* La card */
 section .card {
   width: 700px;
   height: 400px;
@@ -21,6 +22,7 @@ section .card {
   display: flex;
 }
 
+/* L'image */
 section .card .img {
   width: 800px;
   background: url(https://discord.com/assets/3e0acf6d69894a5d20deb7c513cd1412.svg);
@@ -33,6 +35,7 @@ section .card .img:hover {
   transform: scale(1.1);
 }
 
+/* Le texte */
 section .card .txt {
   width: 700px;
   height: 65px;
