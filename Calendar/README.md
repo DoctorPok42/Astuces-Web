@@ -7,3 +7,5 @@ Vous trouverez dans ce dossier les 2 fichier et les 2 dossiers essentiels. Pour 
 Inspirer d'une vidéo YouTube et avec l'aide du repo [dyCalendarJS](https://github.com/yusufshakeel/dyCalendarJS) pour toute la partie js.
 
 [ - DoctorPok ]
+
+<img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Calendar.PNG">
