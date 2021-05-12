@@ -15,3 +15,5 @@ Vous trouverez dans ce dossier les 2 fichier essentiels. Vous pouvez mettre vos 
 en remplaçant les `...` par votre class que vous trouverez sur ce [site](https://fontawesome.com/) 🔗
 
 [ - DoctorPok ]
+
+<img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Network-Links.PNG">
