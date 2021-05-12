@@ -7,3 +7,5 @@ Vous trouverez dans ce dossier les 2 fichier essentiels. Vous pouvez mettre vott
 Vous pouvez aussi modifier la vitesse ou encore la levée dans le css. Je vous laisse aller voir cette [page](https://developer.mozilla.org/fr/docs/Web/CSS/@keyframes) si vous voulez en apprendre plus sur la règle @keyframes 👍
 
 [ - DoctorPok ]
+
+<img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Floating-Image.PNG">
