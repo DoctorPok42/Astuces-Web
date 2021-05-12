@@ -7,3 +7,5 @@ Vous trouverez dans ce dossier les 2 fichier essentiels. Vous pouvez modifier pa
 Cet astuce est basé sur les :hover du css si vous voulez en apprendre plus je vous invite à regarder cette [page](https://www.w3schools.com/cssref/sel_hover.asp) sur les différentes balise de selection.
 
 [ - DoctorPok ]
+
+<img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Hover-Links.PNG">
