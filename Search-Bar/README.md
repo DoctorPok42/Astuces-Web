@@ -7,3 +7,5 @@ Vous trouverez dans ce dossier les 2 fichier essentiels. Cependant elle n'est pa
 Si vous shouaitez en savoir plus sur comment la personalisé je vous laisse aller voir cette [page](https://www.w3schools.com/html/html_forms.asp) sur les form et leurs attributs :link:
 
 [ - DoctorPok ]
+
+<img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Search-Bar.PNG">
