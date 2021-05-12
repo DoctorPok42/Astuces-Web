@@ -7,3 +7,5 @@ Vous trouverez dans ce dossier les 2 fichier essentiels. Vous pouvez modifier le
 Je vous laisse aller voir [l'espace développeur de Spotify](https://developer.spotify.com/) pour en savoir plus 👍
 
 [ - DoctorPok ]
+
+<img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Spotify-Card.PNG">
