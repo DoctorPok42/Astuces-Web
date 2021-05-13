@@ -15,10 +15,8 @@ section {
 /* L'ensemble */
 .container {
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  flex-wrap: wrap;
   margin: 80% 0;
 }
 
