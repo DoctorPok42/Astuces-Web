@@ -12,6 +12,7 @@ section {
   width: 250px;
 }
 
+/* L'ensemble */
 .container {
   display: flex;
   flex-wrap: wrap;
@@ -21,6 +22,7 @@ section {
   margin: 80% 0;
 }
 
+/* La card */
 .container .card {
   width: 480px;
   height: 480px;
@@ -40,12 +42,14 @@ section {
   opacity: 0.9;
 }
 
+/* Le contenue */
 .container .card .content {
   width: 480px;
   height: 480px;
   border-radius: 20px;
 }
 
+/* L'image */
 .container .card .content .img {
   margin-top: 20px;
   width: 150px;
@@ -68,6 +72,7 @@ section {
   text-align: center;
 }
 
+/* Le pseudo */
 .container .card .content .texte h2 {
   color: #1b1b1b;
   font-size: 35px;
@@ -75,6 +80,7 @@ section {
   margin-top: 20px;
 }
 
+/* Le grade */
 .container .card .content .texte span {
   font-weight: 600;
   font-size: 25px;
@@ -82,6 +88,7 @@ section {
   user-select: none;
 }
 
+/* Les différents badges  */
 .container .card .content .badges {
   width: 25%;
   background-color: #2b2b2b;
@@ -95,6 +102,7 @@ section {
   align-items: center;
 }
 
+/* la bio */
 .container .card .content .bio {
   width: 420px;
   height: 100px;
