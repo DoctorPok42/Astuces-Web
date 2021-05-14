@@ -7,3 +7,5 @@ Vous trouverez dans ce dossier les 2 fichier essentiels. Vous pouvez modifier le
 Cette astuce utilise le code css du repo [tooltips](https://github.com/zkreations/tooltips) que je vous invite à aller voir si vous voulez changer l'orientation du pop-up ou son apparition.
 
 [ - DoctorPok ]
+
+<img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Pop-Up.PNG">
