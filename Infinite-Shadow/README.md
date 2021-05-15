@@ -8,4 +8,6 @@ Vous pouvez aussi modifier le bouton / lien avec le css. Je vous laisse aller vo
 
 [ - DoctorPok ]
 
-<img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Infinite-Shadow.PNG">
+<div align="center">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Infinite-Shadow.PNG">
+</div>
