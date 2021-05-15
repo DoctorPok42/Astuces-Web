@@ -8,4 +8,6 @@ Inspirer d'une vidéo YouTube et avec l'aide du repo [dyCalendarJS](https://gith
 
 [ - DoctorPok ]
 
-<img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Calendar.PNG">
+<div align="center">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Calendar.PNG">
+</div>
