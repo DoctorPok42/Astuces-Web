@@ -8,4 +8,6 @@ Si vous shouaitez en savoir plus sur comment la personalisé je vous laisse alle
 
 [ - DoctorPok ]
 
-<img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Search-Bar.PNG">
+<div align="center">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Search-Bar.PNG">
+</div>
