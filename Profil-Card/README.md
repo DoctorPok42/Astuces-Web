@@ -8,4 +8,6 @@ Vous trouverez différents badges sur ce [site](https://fontawesome.com/)
 
 [ - DoctorPok ]
 
-<img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Profil-Card.PNG">
+<div align="center">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Profil-Card.PNG">
+</div>
