@@ -8,4 +8,6 @@ Je vous laisse aller voir [l'espace développeur de Spotify](https://developer.s
 
 [ - DoctorPok ]
 
-<img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Spotify-Card.PNG">
+<div align="center">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Spotify-Card.PNG">
+</div>
