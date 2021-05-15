@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/logo.PNG">
+</div>
+
 # Astuces-Web [![CodeFactor](https://www.codefactor.io/repository/github/doctorpok42/astuces-web/badge)](https://www.codefactor.io/repository/github/doctorpok42/astuces-web)
 
 Bienvenue sur ce repo !
