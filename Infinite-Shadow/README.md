@@ -1,4 +1,4 @@
-# Btn-Scroll
+# Infinite-Shadow
 
 Cette astuce vous permet de créer un bouton / lien avec une ombre qui va grandir progésivement.
 
