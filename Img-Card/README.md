@@ -6,4 +6,6 @@ Vous trouverez dans ce dossier les 2 fichier essentiels. Vous devez remplacer l'
 
 [ - DoctorPok ]
 
-<img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Img-Card.PNG">
+<div align="center">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Img-Card.PNG">
+</div>
