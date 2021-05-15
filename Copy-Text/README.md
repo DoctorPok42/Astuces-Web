@@ -8,4 +8,6 @@ Cette astuce est inspiré de la page [Copy Text to Clipboard](https://www.w3scho
 
 [ - DoctorPok ]
 
-<img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Copy-Text.PNG">
+<div align="center">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Copy-Text.PNG">
+</div>
