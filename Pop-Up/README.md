@@ -8,4 +8,6 @@ Cette astuce utilise le code css du repo [tooltips](https://github.com/zkreation
 
 [ - DoctorPok ]
 
-<img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Pop-Up.PNG">
+<div align="center">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Pop-Up.PNG">
+</div>
