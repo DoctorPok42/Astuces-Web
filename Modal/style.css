@@ -3,6 +3,7 @@ body {
   padding: 0;
 }
 
+/* Le bouton */
 .container {
   height: 100vh;
   display: flex;
@@ -12,11 +13,7 @@ body {
   background-color: #2b2b2b;
 }
 
-.container a:hover {
-  background-color: #1b1b1b;
-  color: #fff;
-}
-
+/* Le texte du bouton */
 .container a {
   display: inline-block;
   text-decoration: none;
@@ -29,6 +26,12 @@ body {
   transition: 0.2s;
 }
 
+.container a:hover {
+  background-color: #1b1b1b;
+  color: #fff;
+}
+
+/* Le modal */
 .modal {
   visibility: hidden;
   opacity: 0;
@@ -57,15 +60,18 @@ body {
   padding: 1em 2em;
 }
 
+/* le titre */
 .content h2 {
   font-family: "Nunito";
 }
 
+/* Le texte */
 .content p {
   font-family: "Quicksand";
   font-weight: 600;
 }
 
+/* La croix */
 .close {
   position: absolute;
   top: 10px;
