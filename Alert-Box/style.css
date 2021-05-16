@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #2b2b2b;
+}
+
+section .ale1 {
+  padding-right: 2%;
+  height: 65px;
+  border-radius: 20px;
+  background-color: rgba(72, 202, 92, 0.6);
+  display: flex;
+  align-items: center;
+  margin-right: 100px;
+}
+
+section .ale1 .lf {
+  width: 20px;
+  height: 65px;
+  border-radius: 20px 0 0 20px;
+  background-color: #48ca5c;
+  margin-right: 20px;
+}
+
+section .ale1 .texte,
+section .ale2 .texte,
+section .ale3 .texte {
+  color: #fff;
+  font-size: 20px;
+  font-family: Nunito;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+section .ale1 .texte span,
+section .ale2 .texte span,
+section .ale3 .texte span {
+  margin-left: 10px;
+  user-select: none;
+}
+
+section .ale2 {
+  padding-right: 2%;
+  height: 65px;
+  border-radius: 20px;
+  background-color: rgba(232, 152, 63, 0.6);
+  display: flex;
+  align-items: center;
+  margin-right: 100px;
+}
+
+section .ale2 .lf {
+  width: 20px;
+  height: 65px;
+  border-radius: 20px 0 0 20px;
+  background-color: #e8983f;
+  margin-right: 20px;
+}
+
+section .ale3 {
+  padding-right: 2%;
+  height: 65px;
+  border-radius: 20px;
+  background-color: rgba(218, 22, 74, 0.6);
+  display: flex;
+  align-items: center;
+}
+
+section .ale3 .lf {
+  width: 20px;
+  height: 65px;
+  border-radius: 20px 0 0 20px;
+  background-color: #da164a;
+  margin-right: 20px;
+}
