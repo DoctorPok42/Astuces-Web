@@ -12,6 +12,7 @@ section {
   background-color: #2b2b2b;
 }
 
+/* Cadre de L'alert */
 section .ale1 {
   padding-right: 2%;
   height: 65px;
@@ -22,6 +23,7 @@ section .ale1 {
   margin-right: 100px;
 }
 
+/* marque */
 section .ale1 .lf {
   width: 20px;
   height: 65px;
@@ -42,6 +44,7 @@ section .ale3 .texte {
   align-items: center;
 }
 
+/* Le texte */
 section .ale1 .texte span,
 section .ale2 .texte span,
 section .ale3 .texte span {
