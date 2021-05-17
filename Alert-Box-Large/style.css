@@ -19,7 +19,6 @@ section .ale1 {
   border-radius: 20px;
   background-color: rgba(72, 202, 92, 0.2);
   display: flex;
-  z-index: 1;
 }
 
 /* marque */
@@ -28,7 +27,6 @@ section .ale1 .lf {
   height: 400px;
   border-radius: 20px 0 0 20px;
   background-color: #48ca5c;
-  z-index: 1000;
 }
 
 /* L'icon */
