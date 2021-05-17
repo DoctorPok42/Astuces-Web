@@ -12,6 +12,7 @@ section {
   background-color: #2b2b2b;
 }
 
+/* Cadre de L'alert large */
 section .ale1 {
   width: 600px;
   height: 400px;
@@ -21,6 +22,7 @@ section .ale1 {
   z-index: 1;
 }
 
+/* marque */
 section .ale1 .lf {
   width: 20px;
   height: 400px;
@@ -29,6 +31,7 @@ section .ale1 .lf {
   z-index: 1000;
 }
 
+/* L'icon */
 section .ale1 .is{
   display: flex;
   width: 580px;
@@ -44,6 +47,7 @@ section .ale1 .texte {
   font-weight: 600;
 }
 
+/* Le texte */
 section .ale1 .texte h2 {
   position: absolute;
   left: 780px;
@@ -51,6 +55,7 @@ section .ale1 .texte h2 {
   user-select: none;
 }
 
+/* Le bouton */
 section .ale1 .texte .btn{
   position: absolute;
   left: 880px;
