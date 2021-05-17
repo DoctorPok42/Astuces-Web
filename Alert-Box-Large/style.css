@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #2b2b2b;
+}
+
+section .ale1 {
+  width: 600px;
+  height: 400px;
+  border-radius: 20px;
+  background-color: rgba(72, 202, 92, 0.2);
+  display: flex;
+  z-index: 1;
+}
+
+section .ale1 .lf {
+  width: 20px;
+  height: 400px;
+  border-radius: 20px 0 0 20px;
+  background-color: #48ca5c;
+  z-index: 1000;
+}
+
+section .ale1 .is{
+  display: flex;
+  width: 580px;
+  justify-content: center;
+  margin-top: 50px;
+  color: #48ca5c;
+}
+
+section .ale1 .texte {
+  color: #48ca5c;
+  font-size: 20px;
+  font-family: Nunito;
+  font-weight: 600;
+}
+
+section .ale1 .texte h2 {
+  position: absolute;
+  left: 780px;
+  margin-top: 200px;
+  user-select: none;
+}
+
+section .ale1 .texte .btn{
+  position: absolute;
+  left: 880px;
+  margin-top: 300px;
+  width: 100px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: #48ca5c;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+  user-select: none;
+}
