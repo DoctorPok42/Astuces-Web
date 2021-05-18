@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #2b2b2b;
+}
+
+section .card1,
+section .card2 {
+  width: 400px;
+  height: 130px;
+  background-color: #1b1b1b;
+  display: flex;
+  align-items: center;
+  margin-right: 50px;
+  user-select: none;
+  transition: 0.2s;
+}
+
+section .card1:hover {
+  transform: translateY(-10px) translateX(-10px);
+  box-shadow: 10px 10px #5865f2;
+}
+
+section .card2:hover {
+  transform: translateY(10px) translateX(10px);
+  box-shadow: -10px -10px #b05ae9;
+}
+
+section .card1 .icon1 {
+  width: 100px;
+  height: 120px;
+  color: #5865f2;
+  font-size: 4em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-right: 2px solid #2b2b2b;
+}
+
+section .card2 .icon2 {
+  width: 100px;
+  height: 120px;
+  color: #b05ae9;
+  font-size: 4em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-right: 2px solid #2b2b2b;
+}
+
+section .card1 .content,
+section .card2 .content {
+  width: 300px;
+  height: 130px;
+}
+
+h2 {
+  color: #fff;
+  font-size: 25px;
+  font-family: Nunito;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  width: 280px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  color: #b9b9b9;
+  font-size: 18px;
+  font-family: Nunito;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+}
