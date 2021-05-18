@@ -2,7 +2,9 @@
   <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/logo.png">
 </div>
 
-# Astuces-Web [![CodeFactor](https://www.codefactor.io/repository/github/doctorpok42/astuces-web/badge)](https://www.codefactor.io/repository/github/doctorpok42/astuces-web)
+# Astuces-Web [![CodeFactor](https://www.codefactor.io/repository/github/doctorpok42/astuces-web/badge)](https://www.codefactor.io/repository/github/doctorpok42/astuces-web) [![Updated Badge](https://badges.pufler.dev/updated/DoctorPok42/Astuces-Web)](https://badges.pufler.dev) [![Created Badge](https://badges.pufler.dev/created/DoctorPok42/Astuces-Web)](https://badges.pufler.dev)
+
+
 
 Bienvenue sur ce repo !
 
