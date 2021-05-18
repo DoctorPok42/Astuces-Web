@@ -12,6 +12,7 @@ section {
   background-color: #2b2b2b;
 }
 
+/* La card */
 section .card1,
 section .card2 {
   width: 400px;
@@ -34,6 +35,7 @@ section .card2:hover {
   box-shadow: -10px -10px #b05ae9;
 }
 
+/* L'icon */
 section .card1 .icon1 {
   width: 100px;
   height: 120px;
@@ -62,6 +64,7 @@ section .card2 .content {
   height: 130px;
 }
 
+/* Le titre */
 h2 {
   color: #fff;
   font-size: 25px;
@@ -73,6 +76,7 @@ h2 {
   justify-content: center;
 }
 
+/* le texte */
 p {
   width: 280px;
   margin-left: auto;
