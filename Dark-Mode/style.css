@@ -1,7 +1,7 @@
 body {
   margin: 0;
   outline: none;
-  transition: background-color 0.5s;
+  transition: background-color 0.5s; /* permet que le fond ne change pas d'un coup */
 }
 
 .container {
@@ -15,6 +15,7 @@ body {
   top: 0;
 }
 
+/* La boite */
 .container .content {
   width: 500px;
   height: 200px;
@@ -27,12 +28,14 @@ body {
   flex-direction: column;
 }
 
+/* Le titre */
 .container .content h2 {
   font-family: Quicksand;
   text-align: center;
   font-weight: 600;
 }
 
+/* Le bouton */
 .container .content .btn {
   background: 0;
   border: 0;
@@ -43,6 +46,7 @@ body {
   position: relative;
 }
 
+/* Le fond */
 .container .content .btn span:nth-child(1) {
   position: absolute;
   top: 0;
@@ -54,6 +58,7 @@ body {
   transition: 0.5s;
 }
 
+/* Le cercle */
 .container .content .btn span:nth-child(2) {
   position: absolute;
   top: 5px;
@@ -65,20 +70,24 @@ body {
   transition: 0.5s;
 }
 
+/* Le body (en mode dark) */
 body[light-mode="dark"] {
   background-color: #2b2b2b;
   color: #fff;
 }
 
+/* La boite (en mode dark) */
 body[light-mode="dark"] .container .content {
   border: 1px solid #b9b9b9;
   box-shadow: 10px 10px 0px 0.2px #b9b9b9;
 }
 
+/* Le fond (en mode dark) */
 body[light-mode="dark"] .container .content .btn span:nth-child(1) {
   background-color: #1bb6bb;
 }
 
+/* Le cercle (en mode dark) */
 body[light-mode="dark"] .container .content .btn span:nth-child(2) {
   left: 65px;
   background-color: #fff;
