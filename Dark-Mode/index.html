@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <title>Dark-Mode | Astuces-Web</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+
+    <div class="container">
+      <div class="content">
+        <h2>Dark-Mode | Astuces-Web</h2>
+
+        <button class="btn" onclick="onoff()">
+          <span></span>
+          <span></span>
+        </button>
+      </div>
+    </div>
+    <script>
+      var app = document.getElementsByTagName("BODY")[0];
+      if (localStorage.lightMode == "dark") {
+        app.setAttribute("light-mode", "dark");
+      }
+
+      function onoff() {
+        var app = document.getElementsByTagName("BODY")[0];
+        if (localStorage.lightMode == "dark") {
+          localStorage.lightMode = "light";
+          app.setAttribute("light-mode", "light");
+        } else {
+          localStorage.lightMode = "dark";
+          app.setAttribute("light-mode", "dark");
+        }
+      }
+
+      window.addEventListener("storage",
+        function () {
+          if (localStorage.lightMode == "dark") {
+            app.setAttribute("light-mode", "dark");
+          } else {
+            app.setAttribute("light-mode", "light");
+          }
+        },
+        false
+      );
+    </script>
+  </body>
+</html>
