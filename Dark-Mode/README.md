@@ -8,4 +8,5 @@ Vous trouverez dans ce dossier les 2 fichier essentiels. Vous pouvez modifier pa
 
 <div align="center">
   <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Dark-Mode-1.PNG">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Dark-Mode-2.PNG">
 </div>
