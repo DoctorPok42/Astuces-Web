@@ -6,6 +6,8 @@ Vous trouverez dans ce dossier les 2 fichier + 1 dossier essentiels. Vous pouvez
 
 Je vous invite fortement à décortiquer ce code (bien que l'html soit répétitif) afin de bien comprendre comment ça marche. Surtout que cette astuce est la preuve que l'ont peut faire des chose cool avec pas grand chose.
 
+Merci à [Zeldash](https://github.com/Zeldash) pour ça participation.
+
 [ - DoctorPok ]
 
 <div align="center">
