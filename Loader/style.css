@@ -12,6 +12,7 @@ section {
   background-color: #2b2b2b;
 }
 
+/* Les paramètres généraux */
 section div {
   border-radius: 50%;
   width: 80px;
@@ -19,6 +20,7 @@ section div {
   margin-right: 20px;
 }
 
+/* Chaque div a sa partie */
 section div:nth-child(1) {
   border: 10px solid #2b2b2b;
   border-top: 10px double #ffbd59;
