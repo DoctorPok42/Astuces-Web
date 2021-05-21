@@ -7,3 +7,7 @@ Vous trouverez dans ce dossier les 2 fichier essentiels. Vous pouvez modifier to
 Je vous invite à aller vous documenter sur les différentes type d'aniamtion disponible pour un objet html, cela vous donnera des idée si vous voulez le faire tourner d'une autre manière
 
 [ - DoctorPok ]
+
+<div align="center">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Loader.PNG">
+</div>
