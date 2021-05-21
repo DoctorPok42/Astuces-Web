@@ -9,5 +9,5 @@ Je vous invite fortement à décortiquer ce code (bien que l'html soit répétit
 [ - DoctorPok ]
 
 <div align="center">
-  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Chat-Room.PNG">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Chat-Room.png">
 </div>
