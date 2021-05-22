@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <title>Hide-or-Show | Astuces-Web</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <section>
+      <button onclick="myFunction()">Appui ici</button>
+      <div id="hos"><h2>Voilà le 2ème texte</h2></div>
+      <script>
+        function myFunction() {
+          var x = document.getElementById("hos");
+          if (x.style.display === "block") {
+            x.style.display = "none";
+          } else {
+            x.style.display = "block";
+          }
+        }
+      </script>
+    </section>
+  </body>
+</html>
