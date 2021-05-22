@@ -8,4 +8,5 @@ Vous trouverez dans ce dossier les 2 fichier essentiels. Vous pouvez modifier to
 
 <div align="center">
   <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Hide-or-Show.PNG">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Hide-or-Show2.PNG">
 </div>
