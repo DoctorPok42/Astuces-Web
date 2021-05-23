@@ -7,8 +7,9 @@
   </head>
   <body>
     <section>
+      <!-- Le bouton -->
       <button onclick="myFunction()">Montrer la Snackbar</button>
-
+      <!-- Le texte de la Snackbar -->
       <div id="snackbar">
         Le texte de la Snackbar, qui disparaitra dans 3 secondes
       </div>
@@ -19,7 +20,7 @@
         x.className = "show";
         setTimeout(function () {
           x.className = x.className.replace("show", "");
-        }, 3000);
+        }, 3000); // Vous pouvez régler le temps ici (3000 = 3s)
       }
     </script>
   </body>
