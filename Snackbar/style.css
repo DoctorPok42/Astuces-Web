@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #2b2b2b;
+}
+
+section button {
+  width: 250px;
+  height: 50px;
+  background-color: cornflowerblue;
+  border: none;
+  border-radius: 20px;
+  outline: none;
+  font-size: 20px;
+  font-family: Nunito;
+  font-weight: 600;
+  color: #fff;
+}
+
+section #snackbar {
+  visibility: hidden;
+  width: 400px;
+  background-color: #1b1b1b;
+  border-radius: 5px;
+  padding: 16px;
+  position: fixed;
+  bottom: 30px;
+  font-size: 20px;
+  font-family: Nunito;
+  font-weight: 600;
+  text-align: center;
+  color: #fff;
+}
+
+#snackbar.show {
+  visibility: visible;
+  -webkit-animation: un 0.5s, deux 0.5s 2.5s;
+  animation: un 0.5s, deux 0.5s 2.5s;
+}
+
+@keyframes un {
+  from {
+    bottom: 0;
+    opacity: 0;
+  }
+  to {
+    bottom: 30px;
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes deux {
+  from {
+    bottom: 30px;
+    opacity: 1;
+  }
+  to {
+    bottom: 0;
+    opacity: 0;
+  }
+}
+
+@keyframes deux {
+  from {
+    bottom: 30px;
+    opacity: 1;
+  }
+  to {
+    bottom: 0;
+    opacity: 0;
+  }
+}
