@@ -20,6 +20,7 @@ section .container {
   position: relative;
 }
 
+/* Le texte de l'en-tête */
 section .container .info {
   width: 100%;
   display: flex;
@@ -73,6 +74,7 @@ section .container .content .in input {
   user-select: none;
 }
 
+/* La checkbox pour les cgu */
 section .container .content .in2 {
   display: flex;
   flex-wrap: wrap;
@@ -124,6 +126,7 @@ section .container .content .in2 #tog:checked + #lab::before {
   background-color: #02c262;
 }
 
+/* Le bouton final */
 section .container .content .btn {
   position: absolute;
   bottom: 20px;
