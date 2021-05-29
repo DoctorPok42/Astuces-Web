@@ -21,7 +21,7 @@ body {
   height: 200px;
   border: 1px solid #2b2b2b;
   border-radius: 20px;
-  box-shadow: 10px 10px 0px 0.2px #2b2b2b;
+  box-shadow: 10px 10px 0 0.2px #2b2b2b;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -79,7 +79,7 @@ body[light-mode="dark"] {
 /* La boite (en mode dark) */
 body[light-mode="dark"] .container .content {
   border: 1px solid #b9b9b9;
-  box-shadow: 10px 10px 0px 0.2px #b9b9b9;
+  box-shadow: 10px 10px 0 0.2px #b9b9b9;
 }
 
 /* Le fond (en mode dark) */
