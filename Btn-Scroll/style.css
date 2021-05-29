@@ -2,6 +2,7 @@ body {
   margin: 0;
 }
 
+
 .bounce {
   outline: none;
   width: 4rem;
@@ -12,8 +13,14 @@ body {
   color: #fff;
   font-size: 40px;
   position: absolute;
-  top: 90%;
+  top: 85%;
   left: 50%;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.bounce:hover{
+  transform: translateY(10px);
 }
 
 #sec1 {
