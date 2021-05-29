@@ -2,7 +2,7 @@ body {
   margin: 0;
 }
 
-
+/* Le bouton */
 .bounce {
   outline: none;
   width: 4rem;
@@ -19,20 +19,24 @@ body {
   transition: 0.2s;
 }
 
+/* le bouton (quand on passe la souris dessus) */
 .bounce:hover{
   transform: translateY(10px);
 }
 
+/* le bouton (quand on clique dessus) */
 .bounce:active{
   background-color: green;
 }
 
+/* Première section */
 #sec1 {
   width: 100%;
   background-color: #1b1b1b;
   min-height: 100vh;
 }
 
+/* Deuxième section */
 #sec2 {
   width: 100%;
   background-color: #2b2b2b;
