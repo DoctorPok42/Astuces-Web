@@ -23,6 +23,10 @@ body {
   transform: translateY(10px);
 }
 
+.bounce:active{
+  background-color: green;
+}
+
 #sec1 {
   width: 100%;
   background-color: #1b1b1b;
