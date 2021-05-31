@@ -1,10 +1,25 @@
 body {
   margin: 0;
-  width: 100%;
-  background-color: #2b2b2b;
 }
 
-a {
+section {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #2b2b2b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  z-index: -10;
+}
+
+/* On définit la base du lien */
+section .shadow {
+  position: absolute;
+  border: none;
+  border-radius: 50px;
+  padding: 1% 2%;
+  background-color: #02c262;
   text-decoration: none;
   color: #fff;
   font-family: Nunito;
@@ -12,19 +27,8 @@ a {
   font-weight: 600;
 }
 
-/* On définit la base du lien */
-.shadow {
-  position: absolute;
-  top: 50%;
-  left: 45%;
-  border: none;
-  border-radius: 20px;
-  padding: 1% 2%;
-  background-color: #02c262;
-}
-
 /* Puis on définit la forme qu'il aura à la fin */
-.shadow::after {
+section .shadow::after {
   content: "";
   display: block;
   width: 100%;
@@ -33,17 +37,19 @@ a {
   position: absolute;
   top: 0;
   left: 0;
-  border-radius: 20px;
+  border-radius: 50px;
   z-index: -1; /* Permet de garder l'ombre derrière le lien*/
   animation: 1.5s shadow infinite;
 }
 
 /* On part du from pour arriver au to */
 @keyframes shadow {
+  /* forme initiale */
   from {
     transform: scale(1);
     opacity: 1;
   }
+  /* forme au bout de 1.5s */
   to {
     transform: scale(1.5);
     opacity: 0;
