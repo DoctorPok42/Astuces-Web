@@ -30,7 +30,7 @@ body {
 }
 
 .searchbar input:focus {
-  box-shadow: 0 0 0 5px cornflowerblue; /* Une ombre qui apparaît autour de la barre quand celle ci est actionné */
+  box-shadow: 0 0 0 5px orange; /* Une ombre qui apparaît autour de la barre quand celle ci est actionné */
   color: #b9b9b9;
 }
 
@@ -48,6 +48,6 @@ body {
   outline: none;
   border: none;
   background: none;
-  color: cornflowerblue;
+  color: orange;
   cursor: pointer;
 }
