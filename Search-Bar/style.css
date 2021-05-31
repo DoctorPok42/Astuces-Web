@@ -11,6 +11,7 @@ body {
   align-items: center;
   position: relative;
 }
+
 /* La barre de recherche */
 .searchbar input {
   width: 600px;
@@ -33,6 +34,7 @@ body {
   color: #b9b9b9;
 }
 
+/* Le bouton pour faire la recherche */
 .searchbar .but {
   width: 70px;
   height: 50px;
