@@ -36,6 +36,7 @@ section #band .icon {
   align-items: center;
 }
 
+/* Le lien */
 section #band .icon a {
   outline: none;
   width: 100%;
