@@ -1,31 +1,72 @@
 body {
   margin: 0;
-  background-color: #1b1b1b;
+}
+
+section {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-color: #2b2b2b;
+  position: relative;
 }
 
 /* Le bandeaux générale */
-#band {
-  border: none;
-  border-radius: 50px;
+section #band {
+  position: absolute;
+  bottom: 40px;
+  width: 400px;
+  height: 120px;
   background-color: #b9b9b9;
-  padding: 1% 2% 1% 2%;
-  margin: 50rem auto 0rem auto;
+  border-radius: 10px;
   display: flex;
-  width: 22%;
+  justify-content: center;
+  align-items: center;
 }
 
 /* Le css de chaque icon */
-.icon {
-  border: none;
-  border-radius: 100px;
+section #band .icon {
+  border-radius: 200px;
   background-color: #fff;
-  width: 80px;
+  color: #2b2b2b;
+  width: 70px;
+  height: 70px;
   display: flex;
-  padding: 2% 1% 2% 1%;
-  transition: 0.2s;
+  justify-content: center;
+  align-items: center;
+}
+
+section #band .icon a {
+  outline: none;
+  width: 100%;
+  height: 100%;
+  border-radius: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #2b2b2b;
+  font-size: 2.8em;
+  transition: 0.3s;
 }
 
 /* Vous pouvez rajouter d'autre effets si vous le voulez */
-.icon:hover {
-  transform: translateY(-5px);
+
+section #band .icon:hover:nth-child(1) a {
+  color: #fff;
+  background-color: #3b5998;
+}
+
+section #band .icon:hover:nth-child(2) a {
+  color: #fff;
+  background-color: #1da1f2;
+}
+
+section #band .icon:hover:nth-child(3) a {
+  color: #fff;
+  background: linear-gradient(120deg, #4c5fd7 0%, #7232bd 100%);
+}
+
+section #band .icon:hover:nth-child(4) a {
+  color: #fff;
+  background-color: #0d1117;
 }
