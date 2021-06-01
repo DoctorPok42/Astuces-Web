@@ -11,7 +11,7 @@ section {
   position: relative;
 }
 
-/* Le bandeaux générale */
+/* Le bandeau */
 section #band {
   position: absolute;
   bottom: 40px;
@@ -24,7 +24,7 @@ section #band {
   align-items: center;
 }
 
-/* Le css de chaque icon */
+/* Chaque icon */
 section #band .icon {
   border-radius: 200px;
   background-color: #fff;
@@ -49,8 +49,7 @@ section #band .icon a {
   transition: 0.3s;
 }
 
-/* Vous pouvez rajouter d'autre effets si vous le voulez */
-
+/* Vous pouvez rajouter d'autre effets / couleurs si vous le voulez */
 section #band .icon:hover:nth-child(1) a {
   color: #fff;
   background-color: #3b5998;
