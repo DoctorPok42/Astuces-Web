@@ -19,18 +19,19 @@ section .ale1 {
   border-radius: 20px;
   background-color: rgba(72, 202, 92, 0.2);
   display: flex;
+  position: relative;
 }
 
 /* marque */
 section .ale1 .lf {
-  width: 20px;
+  width: 15px;
   height: 400px;
   border-radius: 20px 0 0 20px;
   background-color: #48ca5c;
 }
 
 /* L'icon */
-section .ale1 .is{
+section .ale1 .is {
   display: flex;
   width: 580px;
   justify-content: center;
@@ -48,16 +49,19 @@ section .ale1 .texte {
 /* Le texte */
 section .ale1 .texte h2 {
   position: absolute;
-  left: 780px;
+  left: 0;
+  display: flex;
+  width: 100%;
+  justify-content: center;
   margin-top: 200px;
-  user-select: none;
 }
 
 /* Le bouton */
-section .ale1 .texte .btn{
+section .ale1 .texte .btn {
   position: absolute;
-  left: 880px;
-  margin-top: 300px;
+  top: 300px;
+  left: 250px;
+  display: flex;
   width: 100px;
   height: 50px;
   border-radius: 5px;
