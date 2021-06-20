@@ -61,7 +61,6 @@ section .ale1 .texte .btn {
   position: absolute;
   top: 300px;
   left: 250px;
-  display: flex;
   width: 100px;
   height: 50px;
   border-radius: 5px;
