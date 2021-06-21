@@ -16,7 +16,7 @@ section {
 section .ale1 {
   padding-right: 2%;
   height: 65px;
-  border-radius: 20px;
+  border-radius: 10px;
   background-color: rgba(72, 202, 92, 0.6);
   display: flex;
   align-items: center;
@@ -25,9 +25,9 @@ section .ale1 {
 
 /* marque */
 section .ale1 .lf {
-  width: 20px;
+  width: 10px;
   height: 65px;
-  border-radius: 20px 0 0 20px;
+  border-radius: 10px 0 0 10px;
   background-color: #48ca5c;
   margin-right: 20px;
 }
@@ -36,7 +36,7 @@ section .ale1 .texte,
 section .ale2 .texte,
 section .ale3 .texte {
   color: #fff;
-  font-size: 20px;
+  font-size: 18px;
   font-family: Nunito;
   font-weight: 600;
   display: flex;
@@ -55,7 +55,7 @@ section .ale3 .texte span {
 section .ale2 {
   padding-right: 2%;
   height: 65px;
-  border-radius: 20px;
+  border-radius: 10px;
   background-color: rgba(232, 152, 63, 0.6);
   display: flex;
   align-items: center;
@@ -63,9 +63,9 @@ section .ale2 {
 }
 
 section .ale2 .lf {
-  width: 20px;
+  width: 10px;
   height: 65px;
-  border-radius: 20px 0 0 20px;
+  border-radius: 10px 0 0 10px;
   background-color: #e8983f;
   margin-right: 20px;
 }
@@ -73,16 +73,16 @@ section .ale2 .lf {
 section .ale3 {
   padding-right: 2%;
   height: 65px;
-  border-radius: 20px;
+  border-radius: 10px;
   background-color: rgba(218, 22, 74, 0.6);
   display: flex;
   align-items: center;
 }
 
 section .ale3 .lf {
-  width: 20px;
+  width: 10px;
   height: 65px;
-  border-radius: 20px 0 0 20px;
+  border-radius: 10px 0 0 10px;
   background-color: #da164a;
   margin-right: 20px;
 }
