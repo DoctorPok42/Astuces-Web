@@ -1,0 +1,66 @@
+<!DOCTYPE html
+<html lang="fr">
+  <head>
+    <title>Generate-Password | Astuces-Web</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <div id="content">
+        <div id="box">
+          <div id="title">
+            <h2>Generate Password</h2>
+          </div>
+
+          <div id="inmdp">
+            <h4>Your Password</h4>
+            <input type="text" name="mdp" class="test" id="mdp" value=""/>
+          </div>
+
+          <div id="length">
+            <h4>Length</h4>
+            <input type="number" name="Length" id="lengths" value=""/>
+          </div>
+
+          <div id="btn">
+            <input type="button" name="Generate" id="generate" value="Generate" onclick="genPassword()"/>
+            <input type="button" name="Copy" id="copy" value="Copy" onclick="copyPassword()" />
+            <input type="button" name="clear" id="clear" value="Clear" onclick="clearPassword()" />
+          </div>
+        </div>
+    </div>
+
+    <script>
+      function genPassword() {
+        var chars = "123456789abcdefghijklmnopqrstuvwxyz!@#$%^&*()ABCDEFGHIJKLMNPQRSTUVWXYZ";
+        var length = document.getElementById("lengths").value;
+        var password = "";
+
+        if (length <= 0) {
+          alert("You must enter a number of characters")
+          return;
+        }
+
+        for(i=0; i<=length; i++) {
+          var randomNumber = Math.floor(Math.random() * chars.length);
+          password += chars.substring(randomNumber, randomNumber +1);
+        }
+
+        document.getElementById("mdp").value = password;
+      }
+
+
+      function copyPassword() {
+        var copyText = document.getElementById("mdp");
+        copyText.select();
+        document.execCommand("copy");
+        alert("Your Password are successfully copied")
+      }
+
+
+      function clearPassword() {
+        document.getElementById("mdp").value = "";
+      }
+    </script>
+</body>
+</html>
