@@ -8,3 +8,7 @@ Vous trouverez dans ce dossier les 2 dossiers essentiels.
 Vous pouvez modifier le code Js de façon a avoir une vérification au niveau de la création du mot de passe pour être sur d'avoir au moins 1 minuscule, 1 majucule, 1 chiffre et 1 caractère spéciaux.
 
 [- DocroPok]
+
+<div align="center">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Generate-Password.PNG">
+</div>
