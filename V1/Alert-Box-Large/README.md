@@ -9,5 +9,5 @@ Cette astuce est en rapport avec celle ci [Alert-Box](https://github.com/DoctorP
 [ - DoctorPok ]
 
 <div align="center">
-  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Alert-Box-Large.PNG">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/V1/IMG/Alert-Box-Large.PNG">
 </div>
