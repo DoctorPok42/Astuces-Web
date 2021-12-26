@@ -55,7 +55,7 @@ section .container .pseudo {
 
 section .container .pseudo h2 {
   font-size: 20px;
-  font-family: Nunito;
+  font-family: monospace;
   color: #02c262;
   margin: 0;
 }
@@ -67,7 +67,7 @@ section .container .pseudo .h22 {
 /* Heure */
 section .container .pseudo h4 {
   font-size: 12px;
-  font-family: Nunito;
+  font-family: monospace;
   color: #999999;
   margin: 0;
   margin: 7px 10px;
@@ -82,7 +82,7 @@ section .container .texte {
 
 section .container .texte span {
   font-size: 18px;
-  font-family: Quicksand;
+  font-family: monospace;
   font-weight: 600;
   color: #e9e9e9;
 }
