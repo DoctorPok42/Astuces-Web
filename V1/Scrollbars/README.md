@@ -10,5 +10,5 @@ Vous pouvez aussi aller plus loin en ragardant [cette page](https://developer.mo
 [ - DoctorPok ]
 
 <div align="center">
-  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Scrollbars.PNG">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/V1/IMG/Scrollbars.PNG">
 </div>

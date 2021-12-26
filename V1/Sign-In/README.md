@@ -7,5 +7,5 @@ Vous trouverez dans ce dossier les 2 fichier essentiels. Vous pouvez modifier le
 [ - DoctorPok ]
 
 <div align="center">
-  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Sign-In.PNG">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/V1/IMG/Sign-In.PNG">
 </div>

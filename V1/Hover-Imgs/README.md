@@ -1,4 +1,4 @@
-# Hover-Effects
+# Hover-Imgs
 
 Cette astuce vous permet de crée de simple petits effets quand on passe la souris dessus.
 
@@ -9,5 +9,5 @@ Cet astuce est basé sur les :hover du css si vous voulez en apprendre plus je v
 [ - DoctorPok ]
 
 <div align="center">
-  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Hover-Imgs.PNG">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/V1/IMG/Hover-Imgs.PNG">
 </div>

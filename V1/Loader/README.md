@@ -9,5 +9,5 @@ Je vous invite à aller vous documenter sur les différentes type d'aniamtion di
 [ - DoctorPok ]
 
 <div align="center">
-  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Loader.PNG">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/V1/IMG/Loader.PNG">
 </div>

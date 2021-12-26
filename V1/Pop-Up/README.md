@@ -9,5 +9,5 @@ Cette astuce utilise le code css du repo [tooltips](https://github.com/zkreation
 [ - DoctorPok ]
 
 <div align="center">
-  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Pop-Up.PNG">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/V1/IMG/Pop-Up.PNG">
 </div>

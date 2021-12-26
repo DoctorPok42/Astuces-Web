@@ -9,5 +9,5 @@ Si vous shouaitez en savoir plus sur comment la personalisé je vous laisse alle
 [ - DoctorPok ]
 
 <div align="center">
-  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Search-Bar.PNG">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/V1/IMG/Search-Bar.PNG">
 </div>

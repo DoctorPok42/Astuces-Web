@@ -9,5 +9,5 @@ Cette astuce est inspiré d'une vidéo YouTube.
 [ - DoctorPok ]
 
 <div align="center">
-  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Team-Card.PNG">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/V1/IMG/Team-Card.PNG">
 </div>

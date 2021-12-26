@@ -9,5 +9,5 @@ Je vous laisse aller voir [l'espace développeur de Spotify](https://developer.s
 [ - DoctorPok ]
 
 <div align="center">
-  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Spotify-Card.PNG">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/V1/IMG/Spotify-Card.PNG">
 </div>

@@ -7,5 +7,5 @@ Vous trouverez dans ce dossier les 2 fichier essentiels. Vous pouvez modifier to
 [ - DoctorPok ]
 
 <div align="center">
-  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Alert-Box.PNG">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/V1/IMG/Alert-Box.PNG">
 </div>

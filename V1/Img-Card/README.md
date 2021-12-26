@@ -7,5 +7,5 @@ Vous trouverez dans ce dossier les 2 fichier essentiels. Vous devez remplacer l'
 [ - DoctorPok ]
 
 <div align="center">
-  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Img-Card.PNG">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/V1/IMG/Img-Card.PNG">
 </div>

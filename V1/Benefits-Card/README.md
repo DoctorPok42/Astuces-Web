@@ -9,5 +9,5 @@ Vous trouverez différents badges sur ce [site](https://fontawesome.com/)
 [ - DoctorPok ]
 
 <div align="center">
-  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Benefits-Card.PNG">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/V1/IMG/Benefits-Card.PNG">
 </div>

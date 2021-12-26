@@ -17,5 +17,5 @@ en remplaçant les `...` par votre class que vous trouverez sur ce [site](https:
 [ - DoctorPok ]
 
 <div align="center">
-  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Network-Links.PNG">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/V1/IMG/Network-Links.PNG">
 </div>

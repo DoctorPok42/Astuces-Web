@@ -9,5 +9,5 @@ Vous pouvez aussi modifier la vitesse ou encore la levée dans le css. Je vous l
 [ - DoctorPok ]
 
 <div align="center">
-  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Floating-Image.PNG">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/V1/IMG/Floating-Image.PNG">
 </div>
