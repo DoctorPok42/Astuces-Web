@@ -11,5 +11,5 @@ Merci à [Zeldash](https://github.com/Zeldash) pour ça participation.
 [ - DoctorPok ]
 
 <div align="center">
-  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Chat-Room.png">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/V1/IMG/Chat-Room.png">
 </div>
