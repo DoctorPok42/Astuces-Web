@@ -9,5 +9,5 @@ Je vous laisse aller voir cette [page](https://developer.mozilla.org/fr/docs/Web
 [ - DoctorPok ]
 
 <div align="center">
-  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Snackbar.PNG">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/V1/IMG/Snackbar.PNG">
 </div>
