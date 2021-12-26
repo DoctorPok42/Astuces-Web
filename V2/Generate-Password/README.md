@@ -10,5 +10,5 @@ Vous pouvez modifier le code Js de façon a avoir une vérification au niveau de
 [- DocroPok]
 
 <div align="center">
-  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Generate-Password.PNG">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/V2/IMG/Generate-Password.PNG">
 </div>
