@@ -9,5 +9,5 @@ Cette astuce est inspiré de la page [Copy Text to Clipboard](https://www.w3scho
 [ - DoctorPok ]
 
 <div align="center">
-  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/IMG/Copy-Text.PNG">
+  <img src="https://github.com/DoctorPok42/Astuces-Web/blob/main/V1/IMG/Copy-Text.PNG">
 </div>
