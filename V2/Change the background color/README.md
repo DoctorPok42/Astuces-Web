@@ -2,7 +2,7 @@
 
 Cette astuce crée un bouton qui vous permet de changer la couleur de votre background.
 
-Vous trouverez dans ce dossier les 2 fichiers essentiels [index.html](index.html) et [style.scss](style.scss).
+Vous trouverez dans ce dossier les 2 fichiers essentiels [index.html](index.html) et [style.css](style.css).
 
 ####  Pour allez plus loin :
 Vous pouvez modifier le code html et js pour que l'utilisateur puisse rentrer directement un code RGB ou HEX.
