@@ -1,0 +1,31 @@
+<!DOCTYPE html
+<html lang="fr">
+  <head>
+    <title>Generate-2FA-Code | Astuces-Web</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <div id="content">
+        <input type="text" id="code" disabled>
+    </div>
+
+    <script>
+      function genCode() {
+        var code = "";
+        var chiffres = "0123456789";
+        for (var i = 0; i < 6; i++) {
+          if (i == 3) {
+            code += " ";
+          }
+          code += chiffres.charAt(Math.floor(Math.random() * chiffres.length));
+        }
+        document.getElementById("code").value = code;
+      }
+
+      genCode();
+
+      setInterval(genCode, 60000); // nouveau code toutes les minutes
+    </script>
+</body>
+</html>
