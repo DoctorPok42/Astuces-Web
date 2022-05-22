@@ -8,15 +8,14 @@
   <body>
     <div class="content" id="ch">
         <div class="card">
-            <input type="color" name="color" id="color" required />
-            <input type="button" name="btn" id="btn" value="Change the background color" onclick="change()">
+            <input type="color" name="color" id="color" required onchange=change(this) />
         </div>
     </div>
 
     <script>
-        function change() {
-        val = document.getElementById("color").value;
-        document.getElementById("ch").style.background = val;
+        function change(color) {
+        var new_color = color.value;
+        document.getElementById("ch").style.background = new_color;
         }
     </script>
 </body>
